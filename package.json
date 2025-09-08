@@ -1,0 +1,18 @@
+{
+  "name": "puhelinluettelobackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index",
+    "start": "node index"
+  },
+  "author": "Eetu Oinonen",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
+  }
+}
